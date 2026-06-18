@@ -1,0 +1,3 @@
+# A aplicacao em si NAO usa bibliotecas externas (apenas a biblioteca padrao do Python).
+# O PyInstaller so e necessario para gerar o executavel (.exe).
+pyinstaller

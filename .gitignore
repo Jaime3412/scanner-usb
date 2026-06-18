@@ -1,0 +1,27 @@
+# --- PyInstaller (artefactos de build, nao enviar para o repositorio) ---
+build/
+dist/
+*.spec
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+
+# --- Ambientes virtuais ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- IDE / Editores ---
+.vscode/
+.idea/
+*.swp
+
+# --- Sistema Operativo ---
+Thumbs.db
+desktop.ini
+.DS_Store
